@@ -1,6 +1,6 @@
 name: 'Checkout QEMU Buildx'
 description: 'Checks out the repository, configures QEMU and Docker Buildx for all available architectures before logging in to DockerHub'
-author: 'JonasAlfredsson'
+author: 'B'
 branding:
   icon: 'life-buoy'
   color: 'blue'
